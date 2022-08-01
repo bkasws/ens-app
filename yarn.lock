@@ -1188,10 +1188,10 @@
   resolved "https://registry.yarnpkg.com/@buidlhub/buidlhub-ens-notifications/-/buidlhub-ens-notifications-1.0.3.tgz#708cecde68d8dcad048b2885d6113615837b3a79"
   integrity sha512-JrHcgKGOvbgFyinATTYDTD5ZH1k7r+rWympuNGlp9yLi4prScVz0hzAvJHB7bxUjDbyrdbD5vAJhgjSxi8V31w==
 
-"@cndllabs/mock@^2.2.0":
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/@cndllabs/mock/-/mock-2.2.0.tgz#8801566dc6d451ea71558a83fd3e5f8c8ecaf356"
-  integrity sha512-UZciWs4zLsr3lV5DNxpsEgH7Iro+JWxEmdbJCPHWpp1S6frn9teC2eg2oyRa2hIk6ZdA85cTa9oxYBjVZ4H/ww==
+"@cndllabs/mock@^2.3.0":
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/@cndllabs/mock/-/mock-2.3.0.tgz#9d6c09c8caf8a5256ef2a8743f7a57ac5120815b"
+  integrity sha512-dPUx/e790hHyvYBD70cuwiHXq1ohjXOCMxMwEV0uDQzgR7B2rkWdYLtlWPezTbzL+JnT5RhBU3HBM/sQWeKRSA==
   dependencies:
     "@babel/runtime" "^7.4.4"
     "@ensdomains/dnssec-oracle-anchors" "^0.0.1"

@@ -7,7 +7,7 @@
     "@0xproject/utils": "^0.7.3",
     "@apollo/client": "^3.4.4",
     "@buidlhub/buidlhub-ens-notifications": "^1.0.3",
-    "@cndllabs/mock": "^2.2.0",
+    "@cndllabs/mock": "^2.3.0",
     "@emotion/core": "^10.0.9",
     "@emotion/styled": "^10.0.9",
     "@ensdomains/address-encoder": "^0.2.17",
