@@ -25,7 +25,7 @@ async function init() {
 
   switch (ENV) {
     case 'GANACHE_GUI':
-      var provider = new Web3.providers.HttpProvider('http://localhost:7545')
+      var provider = new Web3.providers.HttpProvider('http://localhost:8545')
       var { web3 } = await setupWeb3(provider)
       break
     case 'GANACHE_CLI':
